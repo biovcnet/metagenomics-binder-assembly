@@ -1,4 +1,4 @@
-# Metagenomics Binder for quality control tools
+# Metagenomics Binder for assembly tools
 
   - bbtools
   - spades
