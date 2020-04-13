@@ -7,3 +7,6 @@ set -eux
 # >"The Jupytext extension for JupyterLab is bundled with Jupytext. Installing Jupytext will trigger a build of JupyterLab the next time you open it. If you prefer, you can trigger the build manually with `jupyter lab build`"
 # Trying that here to avoid it later showing pop-up about it.
 jupyter lab build
+
+
+git clone https://github.com/biovcnet/topic-metagenomics.git
