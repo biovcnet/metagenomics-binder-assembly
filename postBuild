@@ -11,6 +11,5 @@ jupyter lab build
 
 git clone https://github.com/biovcnet/topic-metagenomics.git
 
-shopt -s dotglob
 mv topic-metagenomics/* ./
 rmdir topic-metagenomics
