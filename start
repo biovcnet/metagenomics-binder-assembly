@@ -2,11 +2,11 @@
 
 
 # retrieve notebooks and place correctly in session
-git clone https://github.com/biovcnet/topic-metagenomics.git
+# git clone https://github.com/biovcnet/topic-metagenomics.git
 
-shopt -s dotglob
-mv topic-metagenomics/* ./
-rmdir topic-metagenomics
+# shopt -s dotglob
+# mv topic-metagenomics/* ./
+# rmdir topic-metagenomics
 
 
 # this must be last line according to 
