@@ -119,3 +119,7 @@ fi
 # formatting prompt
 export PS1="\[$(tput setaf 3)\][\$PWD]\[$(tput sgr0)\]$ "
 
+# retrieve notebooks and place correctly in session
+git clone https://github.com/biovcnet/topic-metagenomics.git
+cd topic-metagenomics
+
