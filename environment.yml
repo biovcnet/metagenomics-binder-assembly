@@ -21,7 +21,7 @@ dependencies:
   - megahit
   - quast
 #mapping
-#  - bowtie2
+  - bowtie2
 #  - minimap2
 #binning
 #  - metabat2
