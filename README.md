@@ -6,3 +6,4 @@
   - spades
   - megahit
   - quast
+  - bowtie2
